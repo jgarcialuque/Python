@@ -18,6 +18,6 @@ win.boton_pulsame.clicked.connect(boton_pulsado)
 
 #muestra la ventana
 win.show()
-
+#texto añadido para prueba en Git
 #la aplicacion no cierra hasta que no termine app
 sys.exit(app.exec_())
